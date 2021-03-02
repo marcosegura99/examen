@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "796989309170",
+    "project_id": "examenes-ee590",
+    "storage_bucket": "examenes-ee590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796989309170:android:ae82f72d67c77a9e9e906b",
+        "android_client_info": {
+          "package_name": "com.example.examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796989309170-t9biam50r7irhskrqnqdgfemfqd892in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examen",
+            "certificate_hash": "d48fc6632a74a7362f6c7f1a2bad147d1c55416b"
+          }
+        },
+        {
+          "client_id": "796989309170-e8j71hf3pudiid7i91g1nnrdga2jnae4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoPfMMFJnQh7ALI8AWERHa5T4J9P09s7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796989309170-e8j71hf3pudiid7i91g1nnrdga2jnae4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
